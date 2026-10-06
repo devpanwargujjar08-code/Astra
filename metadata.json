@@ -1,0 +1,6 @@
+{
+  "name": "Astra",
+  "description": "All-in-one personal AI assistant for daily problem solving, brainstorming, coding, academic and technical guidance in English, Hindi, and Hinglish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
